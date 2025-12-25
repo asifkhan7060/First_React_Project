@@ -255,6 +255,32 @@ Saving the .env file with production values for future usage
 adding the .env file to .gitignore to prevent it from uploading to github
 End
 
+
+
+Project Done 
+
+
+
+changes after deploy:
+1-create vercel.json file 
+2-change in config.js in getpostsfunction
+3-Change in AllPosts.jsx file
+4-Change in Home.jsx file
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
